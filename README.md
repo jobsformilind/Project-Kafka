@@ -1,6 +1,6 @@
 # Project-Kafka
-Kafka projects
 
+## Kafka Commands
 
 1. Start zookeeper
 ```
